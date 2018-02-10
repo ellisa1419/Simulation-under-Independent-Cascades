@@ -1,9 +1,5 @@
 # Simulation-under-Independent-Cascades
 
-
-# Edit: I have shared output. I cannot public this code as its entry level task. But, if you are potential employer, please email me, and I will share my code
-
-
 The goal of this task is to simulate information cascades from a given node according to the independent cascade model (IC) [1]; and then to discuss differences and shortcomings based on the observed behavior. The description here should be self-contained  even if you are unfamiliar with IC (the reference is included as pdf for completeness). Before we define the actual task we start with some notation and background.
 
 1 Preliminaries
@@ -57,3 +53,4 @@ Academy of Marketing Science Review, 2001:1, 2001.
 3
  
 
+# Edit: I have shared output. I cannot public this code as its entry level task. But, if you are potential employer, please email me, and I will share my code
