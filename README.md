@@ -53,4 +53,4 @@ Academy of Marketing Science Review, 2001:1, 2001.
 3
  
 
-**Edit: I have shared output. I cannot public this code as its entry level task. But, if you are potential employer, please email me, and I will share my code
+#Edit: I have shared output. I cannot public this code as its entry level task. But, if you are potential employer, please email me, and I will share my code
